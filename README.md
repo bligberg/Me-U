@@ -44,7 +44,7 @@
 <p id="info"></p>
 
 <div class="barre">
-  <div class="progression" id="progressionBar">0%</div>
+  <div class="progression" id="progressionBar">17,13%</div>
 </div>
 
 <script>
